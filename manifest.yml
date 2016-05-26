@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: shailesh.com
+  name: Sample
+  host: sample
+  disk_quota: 1024M
